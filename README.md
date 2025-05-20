@@ -1,4 +1,4 @@
-# Selling price
+# How Selling price is influenced 
 ![selling price comparison](https://github.com/user-attachments/assets/8404f2d2-4a11-4af2-bf31-ed5ca063b4c3)
 
 # Distribution of values
