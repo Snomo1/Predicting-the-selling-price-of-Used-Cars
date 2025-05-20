@@ -1,7 +1,7 @@
-# selling price
+# Selling price
 ![selling price comparison](https://github.com/user-attachments/assets/8404f2d2-4a11-4af2-bf31-ed5ca063b4c3)
 
-# distribution of values
+# Distribution of values
 ![distribution of values](https://github.com/user-attachments/assets/adb4bbec-293b-4db4-8671-978c8a95554b)
 
 
